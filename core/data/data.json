@@ -1,0 +1,14 @@
+{
+    "url": {
+        "home_page": "https://www.bershka.com/ba/h-woman.html"
+    },
+
+    "credentials": {
+        "email" : "nelaam@gmail.com",
+        "password": "Nejralamija123"
+    },
+    "verification_message": {
+        "registartion_message": "Your account has been created."
+    }
+
+}
